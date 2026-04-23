@@ -1447,3 +1447,7 @@
             text-decoration: underline;
             text-underline-offset: 3px;
         }
+
+        .sooon{
+            filter: brightness(60%);
+        }
